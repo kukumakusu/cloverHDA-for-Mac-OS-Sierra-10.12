@@ -31,7 +31,7 @@ This cloverHDA.kext enables audio/sound on Mac OS Sierra 10.12
       1 - Layout_ID 11 = 5/6 ports supported (Pink, Green, Blue) (Note : without auto-switch , you have to manually select between output/input device's) 
       3 - Layout_ID 13 =   5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue)
       
-    for Laptop's' :
+    for Laptop's :
       1 - Layout_ID 13 =   3/5 ports supported (Black, Pink, Green, Blue)
 
 ### Supported Codec/DEVICE_ID :
