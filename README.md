@@ -2,11 +2,11 @@
 ![HDA Icon](https://raw.githubusercontent.com/insanelydeepak/cloverHDA/master/cloverHDA.jpg)
 # cloverHDA 
 
-This cloverHDA.kext enables audio/sound on Mac OS Sierra 10.12
+Bu cloverHDA.kext'i Mac OS Sierra 10.12 üzerinde audio/ses aktif eder.
 
 
 ### Gerekenler : 
-      1 - Vanilla/Native AppleHDA 
+      1 - Vanilla/Orijinal AppleHDA 
       2 - a good Kext Installer or [EastKextPro](http://www.insanelymac.com/forum/files/file/397-easykext-pro-a-minimal-and-super-fast-kext-installer/)
   
       3 - Property List Editors - Xcode or Property List Editor, PlistEdit Pro, TextEdit, etc.
